@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GIT CAT</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="repository">Repository</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Masukkan usernamer</string>
+    <string name="title_activity_detail">Detail User</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="content_followers">Tidak ada followers</string>
+    <string name="content_following">Tidak ada following</string>
+    <string name="contentDescription">GIT CAT LOGO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
